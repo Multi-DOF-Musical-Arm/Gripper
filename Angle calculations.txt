@@ -1,0 +1,31 @@
+1 Note:
+0cm
+-4.2687deg -> 0deg
+
+2 Notes:
+2.5cm
+4.9528deg -> 9.2215deg
+
+3 Notes:
+4.7cm
+15.6343deg -> 19.903deg
+
+4 Notes:
+7cm
+25.6136deg -> 29.8823deg
+
+5 Notes:
+9.4cm
+35.9899deg -> 40.2586deg
+
+6 Notes:
+11.7cm
+46.8023deg -> 51.071deg
+
+7 Notes:
+14cm
+59.9898deg -> 64.2585deg
+
+8 Notes:
+16.3cm
+90deg -> 94.2687deg
